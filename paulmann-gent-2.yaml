@@ -18,7 +18,7 @@ blueprint:
         device:
           integration: zha
           manufacturer: "Paulmann Licht GmbH"
-          model: "501.40"
+          model: "50140"
 
     # Definition of the actions
     s1_section:
